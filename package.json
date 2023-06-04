@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.108.249.98:8081/pathantechnologies/repository/nodejs/"
+    "registry": "http://3.111.58.152:8081/pathantechnologies/repository/nodejs/"
   },
   
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
+    "url": "http://3.111.58.152:8081/pathantechnologies/repository/nodejs/"
   },
   "keywords": [
     "node",
